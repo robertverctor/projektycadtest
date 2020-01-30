@@ -34,6 +34,6 @@ namespace Christoc.Modules.DNNTheme1
     /// -----------------------------------------------------------------------------
     public partial class Edit : SkinBase
     {
-
+        var aaa = "aaa";
     }
 }
